@@ -1,0 +1,14 @@
+payload:
+  - DOMAIN-SUFFIX,dns.cloudflare.com
+  - DOMAIN-SUFFIX,dns.google
+  - DOMAIN,download.412365.com
+  - DOMAIN-SUFFIX,services.googleapis.cn
+  - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,jisoo.ccwu.cc
+  -  DOMAIN-SUFFIX,goods.ccwu.cc
+  - DOMAIN-SUFFIX,dnshe.com
+  
+  - DOMAIN,clientservices.googleapis.com
+  
+  - IP-CIDR,172.245.71.196/32
