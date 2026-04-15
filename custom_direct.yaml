@@ -6,7 +6,7 @@ payload:
   - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   - DOMAIN-SUFFIX,jisoo.ccwu.cc
-  -  DOMAIN-SUFFIX,goods.ccwu.cc
+  - DOMAIN-SUFFIX,goods.ccwu.cc
   - DOMAIN-SUFFIX,dnshe.com
   
   - DOMAIN,clientservices.googleapis.com
