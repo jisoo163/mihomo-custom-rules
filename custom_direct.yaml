@@ -12,3 +12,4 @@ payload:
   - DOMAIN,clientservices.googleapis.com
   
   - IP-CIDR,172.245.71.196/32
+  - IP-CIDR,16.162.38.213/32
