@@ -12,7 +12,7 @@ payload:
   - DOMAIN-SUFFIX,7770006.xyz,DIRECT
   - DOMAIN-SUFFIX,sytt007.xyz,DIRECT
   - DOMAIN-SUFFIX,syleyuan.xyz,DIRECT
-  - DOMAIN-SUFFIX,cloudflareinsights.com,DIRECT
+  - DOMAIN-SUFFIX,cloudflareinsights.com,REJECT
   
   - DOMAIN,clientservices.googleapis.com
   
